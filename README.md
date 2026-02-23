@@ -71,7 +71,7 @@ The Makefile is for packaging and only works on Linux. Just ignore it if you're 
 # Warranty
 ** We don't provide any sort of warranty on this programm **
 
-**contact: lilithtechs@protonmail.com**
+**contact: mikatechs@protonmail.com**
 
 
 \* the update server is currently offline
@@ -86,7 +86,7 @@ The Makefile is for packaging and only works on Linux. Just ignore it if you're 
 # Copyright
 For Everything that is comitted under "Random-user420"
 
-(C) 2025 Lilith
+(C) 2025 Mika
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
